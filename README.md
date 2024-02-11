@@ -18,7 +18,7 @@ Ferramentas utilizadas: <br>
 <li> Google Colab: https://colab.google/ </li>
 
 ## Objetivo
-Este projeto tem como objetivo aplicar estudos sobre API e manipulação de dados no formato JSON e em dicionário de dados.<br>
+Este projeto tem como objetivo aplicar estudos sobre API e manipulação de dados no formato JSON e de dicionário de dados e transformá-los em DataFrame.<br>
 
 ## Código
 
