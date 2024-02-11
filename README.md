@@ -9,13 +9,13 @@ Neste projeto constam extrações e tratamento de dados extraídos a partir do r
 
 ## Informações
 
-Para realizar as extrações dos dados da API, foi utilizada como ferramenta a linguagem Python e o Azure Databricks para manusear a importação dos dados.<br>
+Para realizar as extrações dos dados da API, foi utilizada como ferramenta a linguagem Python e o Google Colab para manusear a importação dos dados.<br>
 
 Ferramentas utilizadas: <br>
 
 <li> Dados API IBGE: https://servicodados.ibge.gov.br/api/docs/agregados?versao=3#api-_</li>
 <li> Python versão 3.9.5: https://www.python.org/downloads/ </li>
-<li> Azure Databricks: https://www.databricks.com/br </li>
+<li> Google Colab: https://colab.google/ </li>
 
 ## Objetivo
 Este projeto tem como objetivo aplicar estudos sobre API e manipulação de dados no formato JSON e em dicionário de dados.<br>
