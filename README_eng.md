@@ -1,5 +1,7 @@
 # IBGE-API-Data
 
+[![Leia em Português](https://img.shields.io/badge/Leia%20em-Português-blue)](README.md)
+
 ## Context
 IBGE (Brazilian Institute of Geography and Statistics), categorized as a federal public administration entity, is the main provider of information and data in Brazil, serving various sectors of society with population, economic, and geographic data.
 
