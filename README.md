@@ -1,6 +1,6 @@
 # Dados-API-IBGE
 
-[![Read in English](https://img.shields.io/badge/Read%20in-English-blue)](READme_eng.md)
+[![Read in English](https://img.shields.io/badge/Read%20in-English-blue)](README_eng.md)
 
 ## Contexto
 
