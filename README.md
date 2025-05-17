@@ -1,5 +1,7 @@
 # Dados-API-IBGE
 
+[![Read in English](https://img.shields.io/badge/Read%20in-English-blue)](READme_eng.md)
+
 ## Contexto
 
 O IBGE (Instituto Brasileiro de Geografia e Estatística), categorizado como entidade de aministração pública federal, é o principal provedor de informações e dados no Brasil, os quais atendem a diversos campos da sociedade, seja com dados populacionais, econômicos ou geográficos.
